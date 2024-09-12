@@ -1,0 +1,48 @@
+.homeContainer{
+    display: flex;
+    align-items: flex-start;
+}
+.blockMain{
+    margin: auto;
+}
+.block1{
+    padding: 50px;
+    margin-top: 10%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.dashCont1 h4{
+    color: #1F384C;
+}
+.dashCont1 h5{
+    margin-top: 5%;
+    color: #1F384C;
+}
+.dashCont2 button{
+    background-color: #dde1e4;
+    color: #1F384C;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+.block2{
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin: auto;
+}
+.block2 h4{
+    color: #1F384C;
+}
+.block2 h5{
+    margin-top: 5%;
+    color: #1F384C;
+}
+    .block3{
+        padding: 50px;
+        display: flex;
+        justify-content: space-between;
+    }
